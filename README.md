@@ -1,6 +1,7 @@
 # PPa-dsa-prep
- This repository contains questions for practice!
- ## Arrays
+ This repository contains my implementations of DSA questions for practice!
+
+ ## 1) Arrays & Dynamic Arrays
 
 ### Assignment
 - [Marvolo Gaunt Ring](https://codeforces.com/problemset/problem/855/B)
@@ -14,3 +15,7 @@
 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [Maximum Gap](https://leetcode.com/problems/maximum-gap/)
 - [Rearrange Array](https://www.geeksforgeeks.org/rearrange-array-arrj-becomes-arri-j/)
+
+## 2) Mathematics
+## 3) Recursion
+## 4) BackTracking
