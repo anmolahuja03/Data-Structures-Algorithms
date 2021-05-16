@@ -10,7 +10,7 @@ public:
         //Effecient Approach T.C = O(N)
         //Technique used - Bucketing
         //No of gaps = N-1
-        //finding gap=(max-min)/N-1 if (max-min) is perfectly divisible by no of gaps
+        //finding gap = (max-min)/N-1 if (max-min) is perfectly divisible by no of gaps
         //gap = (max-min)/N-1 + 1 if not perfectly divisible (ceil value)
         //bucket no = arr[i]-min/gap
         
