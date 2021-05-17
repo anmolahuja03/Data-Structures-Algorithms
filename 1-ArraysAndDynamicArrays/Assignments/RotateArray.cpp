@@ -2,7 +2,7 @@ class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
        /*
-        //TC= O(n^2)        
+        TC = O(n^2)        
         int i,j,temp;
         int n=nums.size();
         for(j=0;j<k%n;j++){
