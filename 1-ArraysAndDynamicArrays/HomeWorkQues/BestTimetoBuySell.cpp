@@ -5,7 +5,7 @@ public:
         // Edgecases - Short sell not allowed --> which means we need
         // to buy first and then sell. At most one transaction (Buy, Sell)
         
-        int n=prices.size();
+        int n = prices.size();
         
         // Computing prefix min till i
         

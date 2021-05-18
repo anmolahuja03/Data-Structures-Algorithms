@@ -5,9 +5,9 @@ public:
 
        // Effecient Approach - O(n)
         int currmax = INT_MIN;
-        int ans=0;
-        for(int i=0;i<arr.size();i++){
-            currmax=max(currmax,arr[i]);
+        int ans = 0;
+        for(int i=0;  i<arr.size(); i++){
+            currmax = max(currmax,arr[i]);
             if(currmax==i)
                 ans++;   //break a chunk at this point
         }
