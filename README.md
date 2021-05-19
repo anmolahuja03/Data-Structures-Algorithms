@@ -21,5 +21,29 @@
 |                                                                                                                                                                    	| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                                   	|
 
 ## 2) Mathematics
+|                                                       Assignment Ques                                                       | Homework Ques                                                                                                        |
+|:---------------------------------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------------------------------------|
+| [LCM and GCD](https://practice.geeksforgeeks.org/problems/lcm-and-gcd4516/1)                                                | [The Hardest Problem Ever](https://www.hackerrank.com/contests/first-assessment/challenges/the-hardest-problem-ever) |
+| [Appy & Contest](https://www.codechef.com/problems/HMAPPY2)                                                                 | [X of a kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)                      |
+| [Counting Primes](https://leetcode.com/problems/count-primes/)                                                              | [Four Divisors](https://leetcode.com/problems/four-divisors/)                                                        |
+| [Prime Factorization - Multiple Queries](https://practice.geeksforgeeks.org/problems/prime-factors-and-their-powers5243/1)  | [LCM Challenge](https://codeforces.com/problemset/problem/235/A)                                                     |
+| [Count of Divisors - For multiple queries](https://www.geeksforgeeks.org/efficient-program-print-number-factors-n-numbers/) | [Almost Prime](https://codeforces.com/problemset/problem/26/A)                                                       |
+| [Prime Product](https://practice.geeksforgeeks.org/problems/product-of-primes5328/1)                                        | [Sherlock and his girlfriend](https://codeforces.com/contest/776/problem/B)                                          |
+| [Divisible Pairs](https://practice.geeksforgeeks.org/problems/pairs-which-are-divisible-by-41920/1)                         | [Divisor Summation](https://www.spoj.com/problems/DIVSUM/)                                                           |
+| [Making Teams](https://codeforces.com/contest/131/problem/C)                                                                | [T-Prime](https://codeforces.com/problemset/problem/230/B)                                                           |
+| [Count Valid Paranthesis](https://www.geeksforgeeks.org/find-number-valid-parentheses-expressions-given-length/)            | [Common divisors](https://www.spoj.com/problems/COMDIV/)                                                             |
+|                                                                                                                             | [Finding primes](https://www.spoj.com/problems/FINDPRM/)                                                             |
+|                                                                                                                             | [Colliders](https://codeforces.com/problemset/problem/154/B)                                                         |
+|                                                                                                                             | [Print permutations](https://leetcode.com/problems/prime-arrangements/)                                              |
+|                                                                                                                             | [Coloured field](https://codeforces.com/problemset/problem/79/B)                                                     |
+|                                                                                                                             | [Exactly four divisors](https://leetcode.com/problems/four-divisors/)                                                |
+|                                                                                                                             | [Sharks](https://codeforces.com/problemset/problem/621/B)                                                            |
+|                                                                                                                             | [Enlarge GCD](https://codeforces.com/problemset/problem/1034/A)                                                      |
+|                                                                                                                             | [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)                                             |
+|                                                                                                                             | [Bob & Chocolate](https://codeforces.com/problemset/problem/617/B)                                                   |
+|                                                                                                                             | [The pocket book](https://codeforces.com/contest/152/problem/C)                                                      |
+|                                                                                                                             | [At most N](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)                                        |
+
+
 ## 3) Recursion
 ## 4) BackTracking
