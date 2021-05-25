@@ -1,3 +1,8 @@
+## Resources
+- [Interview Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [Complexity Analysis](https://www.bigocheatsheet.com/)
+
+
 ## 1) Arrays & Dynamic Arrays
 | Assignment Problems                                                                                                                                                	| Homework Problems                                                                                                                               	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------	|
