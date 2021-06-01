@@ -1,6 +1,10 @@
 ## Resources
 - [Interview Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - [Complexity Analysis](https://www.bigocheatsheet.com/)
+- Revision Content
+   - [Prime & Sieve](https://docs.google.com/document/d/1bMirTYsnvRKcQXCQkdsKV6xkFPpDOQoqYLmVuCIkbXE/edit)
+   - [Number Theory](https://docs.google.com/document/d/1_Lbb6ssj2gqm13-zhNAk5UrHKiA0G6o8MBpdfCALgZw/edit)
+   - [2 Pointers & Sliding Window](https://docs.google.com/document/d/1sROLwlzK9wn5Nw71vGHEK-QNPeVjDIRdQRF-9ZOUTuU/edit)
 
 
 ## 1) Arrays & Dynamic Arrays
@@ -48,4 +52,20 @@
 
 
 ## 3) Recursion
+
+| Assignment Problems                                                                                                                  	| Homework Problems                                                                                                                   	|
+|--------------------------------------------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------	|
+| [Find subsets](https://leetcode.com/problems/subsets/)                                                                               	| [Transform A to B](https://codeforces.com/contest/727/problem/A)                                                                    	|
+| [Find Subsets (Using bitmasking)](https://leetcode.com/problems/subsets/)                                                            	| [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem)                                            	|
+| [Letter Combinations](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                                          	| [Tower of Hanoi](https://practice.geeksforgeeks.org/problems/help-the-old-man/0)                                                    	|
+| [Fast Exponentiation](https://leetcode.com/problems/powx-n/)                                                                         	| [Number of Paths](https://practice.geeksforgeeks.org/problems/number-of-paths0926/1)                                                	|
+| [Paranthesis - 1](https://leetcode.com/problems/generate-parentheses/)                                                               	| [Pyramid of Glasses](https://codeforces.com/contest/676/problem/B)                                                                  	|
+| [Paranthesis - 2](https://www.hackerrank.com/contests/gl-bajaj-self-evaluation-evening-batch/challenges/bracket-challenge-1/problem) 	| [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)                                                         	|
+| [Simple Combinations](https://leetcode.com/problems/combinations/)                                                                   	| [Smallest No](https://codeforces.com/contest/55/problem/B)                                                                          	|
+| [Simple Combinations Sum](https://leetcode.com/problems/combination-sum-iii/)                                                        	| [Code for 1](https://codeforces.com/problemset/problem/768/B)                                                                       	|
+| [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                    	| [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)                                                        	|
+|                                                                                                                                      	| [Sequential Digits](https://leetcode.com/problems/sequential-digits/)                                                               	|
+|                                                                                                                                      	| [Kth Lexicographical Happy String](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) 	|
+
+
 ## 4) BackTracking
