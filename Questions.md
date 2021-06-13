@@ -69,3 +69,18 @@
 
 
 ## 4) BackTracking
+
+| Assignment Problems                                                                     	| Homework Problems                                                                                              	|
+|-----------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------	|
+| [Permutations](https://leetcode.com/problems/permutations/)                             	| [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)                          	|
+| [Permutations in Lexicographical ordering](https://leetcode.com/problems/permutations/) 	| [Beautiful Arrangements](https://leetcode.com/problems/beautiful-arrangement/)                                 	|
+| [Permutation - 2](https://leetcode.com/problems/permutations-ii/)                       	| [Palindromic Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                             	|
+| [Unique Paths](https://leetcode.com/problems/unique-paths-iii/)                         	| [Rat Maze Multiple jumps](https://practice.geeksforgeeks.org/problems/rat-maze-with-multiple-jumps3852/1)      	|
+| [Maze Problem](https://www.codechef.com/problems/MM1803)                                	| [Word Search](https://leetcode.com/problems/word-search/)                                                      	|
+| [N-Queens - 1](https://leetcode.com/problems/n-queens/)                                 	| [Word Boggle](https://practice.geeksforgeeks.org/problems/word-boggle4143/1)                                   	|
+| [N-Queens - 2](https://leetcode.com/problems/n-queens-ii/)                              	| [8 Queens 3](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2026) 	|
+| [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)                           	| [Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/)                            	|
+|                                                                                         	| [24 Game](https://leetcode.com/problems/24-game/)                                                              	|
+
+
+## 5) Searching
