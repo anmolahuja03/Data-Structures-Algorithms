@@ -1,6 +1,7 @@
 ## Resources
 - [Interview Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - [Complexity Analysis](https://www.bigocheatsheet.com/)
+- [Tech Interview HandBook](https://techinterviewhandbook.org/)  --- Very Useful
 - Revision Content
    - [Prime & Sieve](https://docs.google.com/document/d/1bMirTYsnvRKcQXCQkdsKV6xkFPpDOQoqYLmVuCIkbXE/edit)
    - [Number Theory](https://docs.google.com/document/d/1_Lbb6ssj2gqm13-zhNAk5UrHKiA0G6o8MBpdfCALgZw/edit)
