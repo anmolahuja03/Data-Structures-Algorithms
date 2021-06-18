@@ -1,11 +1,27 @@
-## Resources
+# Resources
 - [Interview Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - [Complexity Analysis](https://www.bigocheatsheet.com/)
 - [Tech Interview HandBook](https://techinterviewhandbook.org/)  --- Very Useful
-- Revision Content
+
+Here are some of the resources from leetcode discussion/quora/blogs that I found very helpful -
    - [Prime & Sieve](https://docs.google.com/document/d/1bMirTYsnvRKcQXCQkdsKV6xkFPpDOQoqYLmVuCIkbXE/edit)
    - [Number Theory](https://docs.google.com/document/d/1_Lbb6ssj2gqm13-zhNAk5UrHKiA0G6o8MBpdfCALgZw/edit)
    - [2 Pointers & Sliding Window](https://docs.google.com/document/d/1sROLwlzK9wn5Nw71vGHEK-QNPeVjDIRdQRF-9ZOUTuU/edit)
+   - [How to solve DP - String? Template and 4 Steps to be followed.](https://leetcode.com/discuss/general-discussion/651719/how-to-solve-dp-string-template-and-4-steps-to-be-followed)
+- [How can I be good at graph theory based programming problems](https://www.quora.com/How-can-I-be-good-at-graph-theory-based-programming-problems-in-competitive-programming/answer/Sameer-Gulati-3)
+- [What happens when you type "https://www.google.com/" on your browser and hit enter ?](https://www.linkedin.com/posts/shivammitra_computernetworking-activity-6810170858863116288-VGkP)
+- [DP Explained](https://codeforces.com/blog/entry/43256)
+- [Demustifying DP](https://www.freecodecamp.org/news/demystifying-dynamic-programming-3efafb8d4296/)
+- [Visualization tool for better understanding](https://visualgo.net/en)
+- [Backtracking](https://leetcode.com/discuss/interview-question/1098081/Famous-Backtracking-Problems)
+- [Understanding Predicate Framework in Binary Search](https://drive.google.com/file/d/1_CEZ8TbI0PE1QKEGfc_9rplYd9iO60zy/view)
+- [Optimization Prob BS](https://drive.google.com/file/d/1-EgrW363YVKJ_juM4uSM8LJQgGPUPqXd/view)
+
+
+
+## List of the most common constraints on N along with the most common Big-Ohs
+
+<img src="https://github.com/anmolahuja03/PPa-dsa-prep/blob/main/Time%20Complexity.png" height= 40% width = 70% >
 
 
 ## 1) Arrays & Dynamic Arrays
