@@ -108,4 +108,30 @@ Given below is the list of questions that I am following while practising -
 
 ## 5) Searching
 
+| Assignment Problems                                                                                                                        	| Homework Problems                                                                                                                    	|
+|--------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------	|
+| [Binary Search](https://leetcode.com/problems/binary-search/)                                                                              	| [First one in array](https://practice.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1)              	|
+| [Index of Insertion](https://leetcode.com/problems/search-insert-position/)                                                                	| [Pair sum sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                                   	|
+| [First and last position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)                          	| [First bad version](https://leetcode.com/problems/first-bad-version/)                                                                	|
+| [Find Frequency](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1)                                                   	| [k weakest rows](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)                                                      	|
+| [Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                      	| [Index of extra element](https://practice.geeksforgeeks.org/problems/index-of-an-extra-element/1)                                    	|
+| [Peak Element](https://leetcode.com/problems/find-peak-element/)                                                                           	| [H index 2](https://leetcode.com/problems/h-index-ii/)                                                                               	|
+| [Only Repeating element](https://www.geeksforgeeks.org/find-repeating-element-sorted-array-size-n/)                                        	| [Search a 2d matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                              	|
+| [Single element](https://leetcode.com/problems/single-element-in-a-sorted-array/)                                                          	| [Find in mountain array](https://leetcode.com/problems/find-in-mountain-array/)                                                      	|
+| [Square Root](https://leetcode.com/problems/sqrtx/)                                                                                        	| [Nth magical number](https://leetcode.com/problems/nth-magical-number/)                                                              	|
+| [Kth smallest in array](https://www.geeksforgeeks.org/kth-smallest-element-in-the-array-using-constant-space-when-array-cant-be-modified/) 	| [Kth smallest number in multiplication table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)            	|
+| [Kth smallest in matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)                                           	| [Kth smallest pair distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)                                        	|
+| [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/)                                                                                  	| [Hamburgers](https://codeforces.com/contest/371/problem/C)                                                                           	|
+| [Allocate the books](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)                                   	| [Min size subarray](https://leetcode.com/problems/minimum-size-subarray-sum/)                                                        	|
+| [Smallest good base](https://leetcode.com/problems/smallest-good-base/)                                                                    	| [Capacity to ship packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)                                  	|
+|                                                                                                                                            	| [Max side square submatrix](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) 	|
+|                                                                                                                                            	| [Smallest divisor with sum less than threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)          	|
+|                                                                                                                                            	| [Sagheer and nubian market](https://codeforces.com/problemset/problem/812/C)                                                         	|
+|                                                                                                                                            	| [Magic powder](https://codeforces.com/problemset/problem/670/D2)                                                                     	|
+|                                                                                                                                            	| [Monitor](https://codeforces.com/contest/846/problem/D)                                                                              	|
  
+
+## 6) Sorting
+
+
+## 7) Two Pointers
