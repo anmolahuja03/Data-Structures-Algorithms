@@ -108,6 +108,17 @@ Given below is the list of questions that I am following while practising -
 
 ## 5) Searching
 
+### Points to Remember -
+- B.S is not just about searching element in a sorted array. 
+- Do not look at the array elements always. The game is just of sortedness / sorted space ( it can be in 
+	terms of array elements, some property, or sometimes even a function which you'll have to figure out.) 
+	In the case of function, once figured out --> find its nature --> monotonic or not. Which kind of monotonic 
+	(Non - increasing, non - decreasing) --> Figure out ranges & then use concept of B.S 
+- A pattern like : TTTTTFFFFF (where T & F are mapped to some value) can be solved using B.S. Here, we usually
+	have a sense that break is relative to position and keep narrowing down to it. Can be in form of some function 
+	as well, as described in point 2.
+
+
 | Assignment Problems                                                                                                                        	| Homework Problems                                                                                                                    	|
 |--------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------	|
 | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                              	| [First one in array](https://practice.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1)              	|
