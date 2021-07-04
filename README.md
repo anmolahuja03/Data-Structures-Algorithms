@@ -20,13 +20,9 @@ Here are some of the resources from leetcode discussion/quora/blogs that I found
 1) [Timer to track time while solving leetcode problems](https://chrome.google.com/webstore/detail/leetcode-timer/hihcjkhhlbmckhhnjamfomegbnlffcni)
 
 
-
-
-
-
 ## List of the most common constraints on N along with the most common Big-Ohs
 
-<img src="https://github.com/anmolahuja03/PPa-dsa-prep/blob/main/Time%20Complexity.png" height= 40% width = 70% >
+<img src="https://github.com/anmolahuja03/PPa-dsa-prep/blob/main/assets/Time%20Complexity.png" height= 40% width = 70% >
 
 Given below is the list of questions that I am following while practising -
 
