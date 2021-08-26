@@ -1,4 +1,7 @@
-https://leetcode.com/problems/power-of-two/
+/* 
+@author Anmol Ahuja
+Reference : https://leetcode.com/problems/power-of-two/
+*/
 
 class Solution
 {

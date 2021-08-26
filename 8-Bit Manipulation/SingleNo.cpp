@@ -1,4 +1,7 @@
-https://leetcode.com/problems/single-number/
+/*
+@author Anmol Ahuja
+Reference : https://leetcode.com/problems/single-number/
+*/
 
 class Solution
 {
@@ -56,6 +59,7 @@ public:
         //else for nums.size() == 1
         return nums[0];
         */
+
 
         // Bit Manipulation
         int ans = 0;

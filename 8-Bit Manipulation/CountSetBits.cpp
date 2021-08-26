@@ -1,8 +1,12 @@
-https://leetcode.com/problems/number-of-1-bits/
+/* 
+@author Anmol Ahuja
+Reference : https://leetcode.com/problems/number-of-1-bits/
+*/
 
 class Solution {
 public:
     int hammingWeight(uint32_t n) {
+        /*
         // TC = O(32)
         int count = 0;
         // long x = 1;
@@ -13,13 +17,15 @@ public:
             mask >>= 1;
         }
         return count;
+        */
         
+
         // Optimized
-        // int count = 0;
-        // while(n) {
-        //     n = (n & (n-1));
-        //     count++;
-        // }
-        // return count;
+        int count = 0;
+        while(n) {
+            n = (n & (n-1));
+            count++;
+        }
+        return count;
     }
 };
