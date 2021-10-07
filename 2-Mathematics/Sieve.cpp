@@ -3,8 +3,9 @@
 using namespace std;
 
 const int N = 1e7 + 10;
-vector<bool> isPrime(N, 1);           // initially arking all these nos as prime
+vector<bool> isPrime(N, 1);           // initially marking all these nos as prime
 // N * log (log (N))
+
 int main() {
     isPrime[0] = isPrime[1] = false;
     for(int i = 2; i < N; i++) { // or i * i < N
@@ -27,3 +28,7 @@ int main() {
         cout << "Not Prime\n";
     }
 }
+
+
+// T.C Analysis : N/2 + N/3 + N/5 + N/7 = N (1/2 + 1/3 + 1/5 + ...) = NLogLogN
+// One more optimization could be to just iterate on odd nos as even nos after 2 can never be prime

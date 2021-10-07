@@ -5,7 +5,7 @@
 
 - 2 and 3 are only consecutive numbers that are prime
 - Every prime number can be written as 6b+1 or 6n-1, except 2 and 3 where n is a natural number
-- **GoldBach Conjecture :** Every integer greater than 2 can be expressed as the sum of two primes
+- **GoldBach's Conjecture :** Every even whole number greater than 2 can be expressed as the sum of two primes
 
   
 ## Important theorems used in questions -
@@ -34,7 +34,6 @@ Flaw : Max size array that we can create is of the range 10^8. Hence, we cannot 
      - (a+b)%M = ((a%M) + (b%M))%M
      - (a-b)%M = (a%M) - (b%M)
      - (a*b)%M = ((a%M) * (b%M))%M
-     
 - Permutations & Combinations 
 - Pascal Triangle for nCr
 - Catalan Nos

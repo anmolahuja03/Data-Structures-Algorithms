@@ -24,13 +24,20 @@ int main() {
     int t;
     cin >> t;
     while(t--) {
+        vector<int> temp;
         int n;
         cin >> n;
 
         while(n != 1) {
-            cout << spf[n] << " ";
+            // cout << spf[n] << " ";
+            temp.push_back(spf[n]);
             n = n / spf[n];
         }
-        cout << endl;
+        
+        if(temp.size() > 2) {
+            cout << "False" << endl;
+        }
+        else
+        cout << "True" << endl;
     }
 }

@@ -48,7 +48,7 @@ int main() {
         vector<int> primes = generatePrimes(sqrt(r));
 
         // step 2 : create a dummy array of size r - l + 1 
-        // and make eeryone as 1
+        // and mark everyone as 1
         int dummy[r - l + 1];
         for(int i = 0; i < r - l + 1; i++) {
             dummy[i] = 1;
